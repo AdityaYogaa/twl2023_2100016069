@@ -1,0 +1,50 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/BG/Bgg.jpg");
+  background-size: cover;
+}
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+.Trending {
+  height: 100vh;
+  background: url("../assets/images/BG/Rog.jpg");
+  background-size: cover;
+}
+
+
+
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: 350px;
+  background-color: black;
+  margin: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 7px;
+}
+
+.Laptop {
+  height: auto;
+  background: url("../assets/images/Laptop/apple.jpg");
+  background-size: cover;
+}
+
+.images {
+  height: 350px;
+  width: auto;
+}
